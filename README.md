@@ -1,28 +1,6 @@
-# Gatsby Starter eCommerce
+# Demeter eCommerce
 
-Gatsby starter for creating an eCommerce site using [Moltin eCommerce Api ](https://moltin.com/).
-
-This starter adapts an [existing](https://github.com/moltin-examples/nextjs-demo-store) NextJS eCommerce starter for [GatsbyJS](https://www.gatsbyjs.org/).
-
-Demo: <https://parmsang.github.io/gatsby-starter-ecommerce/>
-
-This starter originally used Gatsby v1 and has now been updated to v2. The original version can be found in branch "gatsby-v1".
-
-## Warning
-
-This starter is currently work in progress
-
-## Getting started
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-store https://github.com/parmsang/gatsby-starter-ecommerce`
-
-### Running in development
-
-`npm run develop`
-
-### Additional Setup
+Built with Gatsby. Currently uses the [Moltin eCommerce Api ](https://moltin.com/).
 
 Both a moltin and Stripe account are needed for this store to run successfully.
 
