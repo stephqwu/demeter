@@ -1,4 +1,4 @@
-# Demeter eCommerce
+# demeter eCommerce
 
 Built with Gatsby. Currently uses the [Moltin eCommerce Api ](https://moltin.com/).
 
