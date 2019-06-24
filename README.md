@@ -1,10 +1,10 @@
 # demeter eCommerce
 
-Built with Gatsby. Currently uses the [Moltin eCommerce Api ](https://moltin.com/).
+Built with Gatsby. Currently uses the [Moltin eCommerce API](https://moltin.com/).
 
-Both a moltin and Stripe account are needed for this store to run successfully.
+> Both a Moltin and a Stripe account are needed for this store to run successfully.
 
-Create a `.env.development` and `.env.production` file at the project root with your moltin `client_id` and Stripe test `publishable key`.
+> Create a `.env.development` and `.env.production` file at the project root with your moltin `client_id` and Stripe test `publishable key`.
 
 ```dosini
 MOLTIN_CLIENT_ID=
